@@ -234,7 +234,7 @@ export default function App() {
         <section className="hero">
           <div className="hero-bg">
             <video 
-              src="/4K Cảnh Đẹp Việt Nam _ Ho Chi Minh City _ Con đường tấp nập người qua lại.mp4"
+              src="/hcmc.mp4"
               autoPlay 
               muted 
               loop 
